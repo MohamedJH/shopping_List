@@ -1,0 +1,39 @@
+.heartIconMagmt{
+    color: red;
+}
+
+.likeIconMagmt{
+    color:blue;
+}
+.total{
+    height: 80px;
+    width: 220px;
+    float: right;
+    margin-right: 170px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+#legend{
+    width: 40%;
+    height: 100%;
+    font-size: medium;
+    font-weight: bold;
+    text-align: right;
+    padding-top: 12%;
+   
+}
+.sousTotal .card-text{
+    font-size: medium;
+    font-weight: bold;
+    color: peru;
+   
+}
+
+#totalValue span{
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 35px;
+    color: peru;
+   
+}
